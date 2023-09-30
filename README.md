@@ -227,10 +227,3 @@ endmodule
 ## RESULT:
 
 Thus ,all the flipflops using verilog and validating their functionality using their functional tables are successfully executed.
-
-
-
-
-
-
-### RESULTS 
