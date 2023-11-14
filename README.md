@@ -1,5 +1,5 @@
 # Experiment--05-Implementation-of-flipflops-using-verilog
-
+## Date: 14/10/2023
 ### AIM: 
 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
